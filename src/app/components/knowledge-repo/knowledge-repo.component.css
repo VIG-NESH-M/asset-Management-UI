@@ -1,0 +1,37 @@
+.for-th{
+  text-align: center;
+  font-weight: 600;
+  /* border-radius: 5px; */
+  align-items: center;
+}
+#create-button{
+float: right;
+border-radius: 14px;
+margin-right: 1%;
+margin-bottom: 3%;
+height: 45px;
+width: 14%;
+font-size: large;
+font-family: ui-serif;
+}
+#search-bar {
+  width: 14%;
+  height: 45px;
+  border-radius: 14px;
+  float: right;
+  margin-right: 1%;
+  margin-bottom: 30px;
+}
+#create-download-button{
+  float: right;
+  border-radius: 14px;
+  margin-right: 1%;
+  margin-bottom: 3%;
+  height: 35px;
+  width: 50px;
+  font-size: large;
+  font-family: ui-serif;
+}
+#btn-repo{
+  padding-right: 6%;
+}
